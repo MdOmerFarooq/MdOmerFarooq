@@ -1,4 +1,4 @@
-# Hey there, I'm Md Omer Farooq! 👋
+# Hi Earthlings..! 👋
 
 Welcome to my digital playground! I'm Md Omer Farooq, a fresh graduate with a B.E. in Electronics and Communication Engineering (ECE). I may be new to the professional world, but I come bearing a potent mix of tech wizardry, coding powers, killer communication skills, and a knack for unraveling complex problems.
 
