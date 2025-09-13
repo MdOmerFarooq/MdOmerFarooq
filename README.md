@@ -12,7 +12,7 @@ I'm on a mission to transition to Cloud Engineering, sharing my learning journey
 - ☁️ Certified: AZ-900: Microsoft Azure Fundamentals  
 - 📚 Exploring: CI/CD tools   
 - 🛠️ Building hands-on projects to strengthen my fundamentals  
-- ✍️ Documenting my journey on https://www.linkedin.com/in/omerfarooq29  
+- ✍️ Documenting my journey on https://www.linkedin.com/in/mdomerfarooq/ 
 
 ---
 
